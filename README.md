@@ -1,4 +1,4 @@
-# Setting up TensorFlow 0.9 with Python 3.5 on AWS GPU-instance
+# Setting up TensorFlow 0.10 with Python 3.5 on AWS GPU-instance
 
 ## Description
 
@@ -18,6 +18,6 @@ It is based on the blog post: <http://max-likelihood.com/2016/06/18/aws-tensorfl
 Just run `setup_aws_tensorflow.bash` on the aws instance:
 
 ```bash
-./setup_aws_tensorflow.bash
+./setup-aws-tensorflow.bash
 ```
 
